@@ -2,7 +2,12 @@
 
 ## Installation
 
-      npm install @jackfish/save-mongodb
+```
+npm install @jackfish/save-mongodb
+```
+
+This module has a peer dependency on mongodb@~4 - which has a dependency on MongoDB server version >3.6
+
 
 ## Usage
 
