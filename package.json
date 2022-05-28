@@ -1,6 +1,6 @@
 {
   "author": "Paul Serby <paul@serby.net>",
-  "name": "@clocklimited/save-mongodb",
+  "name": "@jackfish/save-mongodb",
   "description": "mongodb persistence engine for save",
   "version": "3.0.1",
   "tags": [
@@ -10,9 +10,9 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git@github.com:clocklimited/save-mongodb.git"
+    "url": "git@github.com:JackfishCMS/save-mongodb.git"
   },
-  "homepage": "https://github.com/clocklimited/save-mongodb",
+  "homepage": "https://github.com/JackfishCMS/save-mongodb",
   "license": "ISC",
   "main": "lib/mongodb-engine",
   "scripts": {
@@ -50,6 +50,6 @@
     "stream-assert": "^2.0.3"
   },
   "peerDependencies": {
-    "mongodb": "~3"
+    "mongodb": "~4"
   }
 }
