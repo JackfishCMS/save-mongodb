@@ -24,7 +24,7 @@
     "posttest": "(nyc check-coverage --statements 85 --branches 75 --functions 90 --lines 90 && rm -rf coverage) || nyc report --reporter=html && echo Look at 'coverage/index.html' to find out more"
   },
   "engines": {
-    "node": ">=6"
+    "node": ">=12"
   },
   "dependencies": {
     "event-stream": "^4.0.1",
