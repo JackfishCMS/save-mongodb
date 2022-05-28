@@ -1,8 +1,8 @@
-# save-mongodb - mongodb persistence engine for **save**
+# @jackfish/save-mongodb - mongodb persistence engine for **save**
 
 ## Installation
 
-      npm install save-mongodb
+      npm install @jackfish/save-mongodb
 
 ## Usage
 
